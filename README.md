@@ -1,7 +1,7 @@
 # Linear-Search-in-python and c
 
 The time complexity of above algorithm is O(n).
-Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster searching comparison to Linear search.
+Linear search is the simplest searching algorithm that searches for an element in a list in sequential order. We start at one end and check every element until the desired element is not found.
 
 
 # APPROACH
@@ -12,6 +12,16 @@ Linear search is rarely used practically because other search algorithms such as
 # LINK FOR REFERENCE
 JENNY'S LECTURE  
 https://www.youtube.com/watch?v=C46QfTjVCNU&t=276s
+
+
+# Linear Search Complexities
+Time Complexity: O(n)
+
+Space Complexity: O(1)
+
+# Linear Search Applications
+For searching operations in smaller arrays (<100 items).
+
 
 
 
