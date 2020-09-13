@@ -9,7 +9,7 @@ Linear search is rarely used practically because other search algorithms such as
 >>If x matches with an element, return the index.
 >>If x doesn’t match with any of elements, return -1.
 
-# LINK FOR REFERENCE:-
+# LINK FOR REFERENCE
 JENNY'S LECTURE  
 https://www.youtube.com/watch?v=C46QfTjVCNU&t=276s
 
