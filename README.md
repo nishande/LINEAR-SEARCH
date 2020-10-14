@@ -1,4 +1,4 @@
-# Linear-Search-in-python and c
+# Linear-Search-in-python, c and c++
 
 The time complexity of above algorithm is O(n).
 Linear search is the simplest searching algorithm that searches for an element in a list in sequential order. We start at one end and check every element until the desired element is not found.
